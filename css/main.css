@@ -9,9 +9,12 @@
   font-weight: bold;
   margin-top: 1%;
 }
+
+nav {
+  background-color: #b3e0ff;
+}
 .carousel {
   background: #b3e0ff;
-  margin-top: 3%;
   height: 50%;
 }
 
