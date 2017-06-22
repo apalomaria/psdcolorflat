@@ -1,15 +1,17 @@
 .nav {
   float: right;
+  margin-top: 1%;
 }
 .header {
   display: inline-block;
   font-size: 15px;
   font-family: serif;
   font-weight: bold;
+  margin-top: 1%;
 }
 .carousel {
-  background: #2f4357;
-  margin-top: auto;
+  background: #b3e0ff;
+  margin-top: 3%;
   height: 50%;
 }
 
@@ -54,4 +56,21 @@
 .row p {
   font-size: 12px;
   text-align: center;
+}
+
+.thumbnail {
+  width: 80%;
+}
+
+.row img {
+  height: 200px;
+}
+
+.works {
+  margin: 0 25%;
+}
+.sm {
+  margin: 0 50%;
+  background-color: white;
+  color: black;
 }
