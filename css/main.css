@@ -1,0 +1,57 @@
+.nav {
+  float: right;
+}
+.header {
+  display: inline-block;
+  font-size: 15px;
+  font-family: serif;
+  font-weight: bold;
+}
+.carousel {
+  background: #2f4357;
+  margin-top: auto;
+  height: 50%;
+}
+
+.carousel .item img{
+  margin-left: 40%;
+  width: 30%;
+}
+.item img {
+  height: 30%;
+
+}
+
+.text {
+  color: white;
+  font-size: 25px;
+  font-family: sans;
+
+}
+.red img {
+  width: 70%;
+}
+
+.blue img {
+  width:30%;
+  align-items: center;
+}
+
+.yellow img {
+  width: 55%;
+}
+
+.row {
+  margin-top: 5%;
+}
+.row h1{
+  font-size: 15px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.row p {
+  font-size: 12px;
+  text-align: center;
+}
